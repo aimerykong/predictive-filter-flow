@@ -33,4 +33,7 @@ last update: 10/28/2018
 
 Shu Kong
 
+data/model stored here predictivefilterflow@gmail.com
+
+issues/questions addressed here: 
 aimerykong At g-m-a-i-l dot com
