@@ -6,10 +6,18 @@ For paper, slides and poster, please refer to our [project page](https://www.ics
 ![alt text](https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png "visualization")
 
 
+Several demos are included as below. 
+As for details on the training, demo and code, please go into each demo folder.
+
+1. [demo 1](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for non-uniform motion blur removal. [**todo**];
+2. [demo 2](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for JPEG compression artifact reduction [**todo**];
+3. [demo 3](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for single image super-resolution [**todo**];
+4. [demo 4](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for visualizing filter flow [**todo**]
+
+Please download those models from the [google drive](https://drive.google.com/open?id=141KsUSXGItWi8Sz3OWabnQ_ybiOp_ACs). 
 
 
-
-If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/1712.08273)):
+If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/XXXXX)):
 
     @inproceedings{kong2018PPF,
       title={Per-Pixel Twist via Predictive Filter Flow},
