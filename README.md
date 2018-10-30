@@ -3,7 +3,9 @@
 For paper, slides and poster, please refer to our [project page](https://www.ics.uci.edu/~skong2/pff.html "predictive filter flow")
 
 
-![alt text](https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png  =300x300 "visualization")
+
+<img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" style="width:300px;"/>
+
 
 
 Several demos are included as below. 
