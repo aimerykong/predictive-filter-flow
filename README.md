@@ -4,7 +4,7 @@ For paper, slides and poster, please refer to our [project page](https://www.ics
 
 
 
-<img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" style="width:300px;"/>
+<img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" style="width:200px;"/>
 
 
 
