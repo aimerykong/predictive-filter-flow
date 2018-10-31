@@ -7,6 +7,8 @@ For paper, slides and poster, please refer to our [project page](https://www.ics
 <img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" width="350"/>
 
 
+**keywords**: inverse problem, spatially-variant blind deconvolution, low-level vision, non-uniform motion blur removal, compression artifact reduction, single image super-resolution, filter flow, interpretable model, per-pixel twist, self-supervised learning, image distribution learning.
+
 
 Several demos are included as below. 
 As for details on the training, demo and code, please go into each demo folder.
