@@ -27,10 +27,10 @@ demonstrate by visualizing the space of predicted filters for different tasks.
 Several demos are included as below. 
 As for details on the training, demo and code, please go into each demo folder.
 
-1. [demo 1](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for non-uniform motion blur removal. [**todo**];
-2. [demo 2](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for JPEG compression artifact reduction [**todo**];
-3. [demo 3](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for single image super-resolution [**todo**];
-4. [demo 4](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for visualizing filter flow [**todo**]
+1. [demo 1](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for non-uniform motion blur removal. [**underway**];
+2. [demo 2](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for JPEG compression artifact reduction [todo];
+3. [demo 3](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for single image super-resolution [todo];
+4. [demo 4](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for visualizing filter flow [*todo*]
 
 Please download those models from the [google drive](https://drive.google.com/open?id=141KsUSXGItWi8Sz3OWabnQ_ybiOp_ACs). 
 
