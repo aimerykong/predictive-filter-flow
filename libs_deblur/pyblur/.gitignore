@@ -1,0 +1,8 @@
+.spyderproject
+*.jpg
+*.png
+*.pyc
+/*.egg-info
+/*.egg
+/dist/
+/build/
