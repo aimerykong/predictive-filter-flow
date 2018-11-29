@@ -24,15 +24,16 @@ demonstrate by visualizing the space of predicted filters for different tasks.
 **keywords**: inverse problem, spatially-variant blind deconvolution, low-level vision, non-uniform motion blur removal, compression artifact reduction, single image super-resolution, filter flow, interpretable model, per-pixel twist, self-supervised learning, image distribution learning.
 
 
+Please run ```task01_deblur.ipynb``` directly.
+
+
 Several demos are included as below. 
 As for details on the training, demo and code, please go into each demo folder.
 
-1. [demo 1](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for non-uniform motion blur removal. [**underway**];
-2. [demo 2](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for JPEG compression artifact reduction [todo];
-3. [demo 3](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for single image super-resolution [todo];
-4. [demo 4](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for visualizing filter flow [*todo*]
-
-Please download those models from the [google drive](https://drive.google.com/open?id=141KsUSXGItWi8Sz3OWabnQ_ybiOp_ACs). 
+1. [demo 1](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for non-uniform motion blur removal. [**Ready**];
+2. [demo 2](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for JPEG compression artifact reduction [tba];
+3. [demo 3](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for single image super-resolution [tba];
+4. [demo 4](https://github.com/aimerykong/predictive-filter-flow/tree/master/XXXX) for visualizing filter flow [tba]
 
 
 If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/XXXXX)):
@@ -59,7 +60,6 @@ last update: 10/28/2018
 
 Shu Kong
 
-data/model stored here predictivefilterflow@gmail.com
 
 issues/questions addressed here: 
 aimerykong At g-m-a-i-l dot com
