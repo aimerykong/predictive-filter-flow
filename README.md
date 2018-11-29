@@ -24,7 +24,7 @@ demonstrate by visualizing the space of predicted filters for different tasks.
 **keywords**: inverse problem, spatially-variant blind deconvolution, low-level vision, non-uniform motion blur removal, compression artifact reduction, single image super-resolution, filter flow, interpretable model, per-pixel twist, self-supervised learning, image distribution learning.
 
 
-Please run ```task01_deblur.ipynb``` directly.
+Please run ``` [task01_deblur.ipynb](https://github.com/aimerykong/predictive-filter-flow/blob/master/task01_deblur.ipynb)``` directly.
 
 
 Several demos are included as below. 
