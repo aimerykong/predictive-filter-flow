@@ -30,7 +30,7 @@ Besides, more demos are on the way.
 
 
 
-If you find anything provided here inspires you, please cite our work ([draft pdf](https://www.ics.uci.edu/~skong2/slides/kf_ff_arxiv2018.pdf)):
+If you find anything provided here inspires you, please cite our work ([draft pdf](https://www.ics.uci.edu/~skong2/slides/kf_ff_arxiv2018.pdf) high-resolution version, 44Mb):
 
     @inproceedings{kong2018PPF,
       title={Image Reconstruction with Predictive Filter Flow},
