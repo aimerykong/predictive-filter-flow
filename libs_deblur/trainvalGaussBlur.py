@@ -15,8 +15,8 @@ from torch.autograd import Variable
 
 import torchvision
 from torchvision import datasets, models, transforms
-from utils.metrics import *
-from models.pixel_embedding_model import *
+from libs_deblur.utils.metrics import *
+from libs_deblur.models.pixel_embedding_model import *
 
 
 def train_model(model, dataloaders, dataset_sizes, loss_1_to_2, optimizer, scheduler, 

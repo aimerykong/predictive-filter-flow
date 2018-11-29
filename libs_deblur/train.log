@@ -1,0 +1,15 @@
+./libs_deblur/./train.log	cuda:0
+
+
+Epoch 1/500
+----------
+train
+	loss: 0.073133
+val
+	loss: 0.103717
+
+Epoch 2/500
+----------
+train
+	loss: 0.076350
+val
