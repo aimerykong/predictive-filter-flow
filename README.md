@@ -23,13 +23,14 @@ demonstrate by visualizing the space of predicted filters for different tasks.
 
 **keywords**: inverse problem, spatially-variant blind deconvolution, low-level vision, non-uniform motion blur removal, compression artifact reduction, single image super-resolution, filter flow, interpretable model, per-pixel twist, self-supervised learning, image distribution learning.
 
-
+The jupyter script provided here is self-contained.
 Please run [task01_deblur.ipynb](https://github.com/aimerykong/predictive-filter-flow/blob/master/task01_deblur.ipynb) directly to see how our model performs for non-uniform motion blur removal.
+Please go to [this folder](https://github.com/aimerykong/predictive-filter-flow/tree/master/libs_deblur/result/._epoch-445/moderateBlurDataset_fullRes) to have a quick look at more visualizations!
 Besides, more demos are on the way.
 
 
 
-If you find our model/method/dataset useful, please cite our work ([arxiv manuscript](https://arxiv.org/abs/XXXXX)):
+If you find anything provided here inspires you, please cite our work ([arxiv manuscript](https://arxiv.org/abs/XXXXX)):
 
     @inproceedings{kong2018PPF,
       title={Image Reconstruction with Predictive Filter Flow},
