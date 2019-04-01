@@ -1,7 +1,7 @@
 # Learning with Predictive Filter Flow for Vision
 This github repository contains a series demonstrations of learning with Predictive Filter Flow (PFF) for 
 various vision tasks.
-PFF is a framework not only supporting fully/self-supervised learning on images and videos, but also 
+PFF is a framework not only supporting self/fully/un-supervised learning on images and videos, but also 
 providing better interpretability that one is able to track every single pixel's movement and its kernels
 in constructing the output.
 Here is a list of specific applications(*click the link to visit each webpage*):
