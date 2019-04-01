@@ -4,7 +4,7 @@ various vision tasks.
 PFF is a framework not only supporting fully/self-supervised learning on images and videos, but also 
 providing better interpretability that one is able to track every single pixel's movement and its kernels
 in constructing the output.
-Here is a list of specific applications:
+Here is a list of specific applications(*click the link to visit each webpage*):
 1. [**image based application**](https://www.ics.uci.edu/~skong2/pff.html "predictive filter flow"): 
 	deblur, denoising, defocus, super-resolution, day-night image tranlsation, etc;
 2. [**video based application**](https://www.ics.uci.edu/~skong2/mgpff.html): instance tracking, pose tracking, video transition shot detection, frame interpolation, long-range flow learning, style transfer, etc.
