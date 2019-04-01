@@ -3,6 +3,13 @@
 For paper, slides and poster, please refer to our [project page](https://www.ics.uci.edu/~skong2/mgpff.html "multigrid predictive filter flow")
 
 
+dog             |  soccerball
+:-------------------------:|:-------------------------:
+![](https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_dog.gif)  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
+
+
+
+
 
 We introduce multigrid Predictive Filter Flow (mgPFF), 
 a framework for unsupervised learning on videos.
@@ -31,12 +38,6 @@ If you find anything provided here inspires you, please cite our [arxiv paper](h
       booktitle={arxiv},
       year={2019}
     }
-
-
-
-dog             |  soccerball
-:-------------------------:|:-------------------------:
-![](https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_dog.gif)  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
 
 
 
