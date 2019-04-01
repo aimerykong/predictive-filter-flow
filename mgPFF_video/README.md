@@ -5,7 +5,7 @@ For paper, slides and poster, please refer to our [project page](https://www.ics
 
 dog             |  soccerball
 :-------------------------:|:-------------------------:
-<img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_dog.gif" alt='mgPFF' width="250"/>  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
+<img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_dog.gif" alt='mgPFF' width="350"/>  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
 
 
 
