@@ -56,6 +56,12 @@ If you find anything provided here inspires you, please cite our [arxiv paper](h
 
 ## Multigrid Predictive Filter Flow
 
+<img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
+
+
+
+
+
 last update: 04/01/2019
 
 Shu Kong
