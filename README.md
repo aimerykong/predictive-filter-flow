@@ -15,11 +15,9 @@ Here is a list of specific applications(*click the link to visit each webpage*):
 
 
 
-# Image Reconstruction with Predictive Filter Flow
-
+## Image Reconstruction with Predictive Filter Flow
 
 For paper, slides and poster, please refer to our [project page](https://www.ics.uci.edu/~skong2/pff.html "predictive filter flow")
-
 
 
 <img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" width="350"/>
@@ -40,12 +38,6 @@ demonstrate by visualizing the space of predicted filters for different tasks.
 
 **keywords**: inverse problem, spatially-variant blind deconvolution, low-level vision, non-uniform motion blur removal, compression artifact reduction, single image super-resolution, filter flow, interpretable model, per-pixel twist, self-supervised learning, image distribution learning.
 
-The jupyter script provided here is self-contained.
-Please run [task01_deblur.ipynb](https://github.com/aimerykong/predictive-filter-flow/blob/master/task01_deblur.ipynb) directly to see how our model performs for non-uniform motion blur removal.
-Please go to [this folder](https://github.com/aimerykong/predictive-filter-flow/tree/master/libs_deblur/result/._epoch-445/moderateBlurDataset_fullRes) to have a quick look at more visualizations!
-Besides, more demos are on the way.
-
-
 
 If you find anything provided here inspires you, please cite our [arxiv paper](https://arxiv.org/abs/1811.11482) ([hig-resolution draft pdf](https://www.ics.uci.edu/~skong2/slides/kf_ff_arxiv2018.pdf), 44Mb):
 
@@ -58,16 +50,13 @@ If you find anything provided here inspires you, please cite our [arxiv paper](h
 
 
 
-![alt text](https://www.ics.uci.edu/~skong2/image2/pff_demo_motion_deblur.png "visualization")
-
-![alt text](https://www.ics.uci.edu/~skong2/image2/pff_demo_jpeg.png "visualization")
-
-![alt text](https://www.ics.uci.edu/~skong2/image2/pff_demo_SISR.png "visualization")
-
-![alt text](https://www.ics.uci.edu/~skong2/image2/pff_demo_analysisFF.png "visualization")
 
 
-last update: 10/28/2018
+
+
+## Multigrid Predictive Filter Flow
+
+last update: 04/01/2019
 
 Shu Kong
 
