@@ -25,7 +25,6 @@ PFF             |  mgPFF
 For paper, slides and poster, please refer to our [project page](https://www.ics.uci.edu/~skong2/pff.html "predictive filter flow")
 
 
-<img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" width="350"/>
 
 We propose a simple, interpretable framework for solving a wide range of image
 reconstruction problems such as denoising and deconvolution.  Given a
@@ -46,13 +45,8 @@ demonstrate by visualizing the space of predicted filters for different tasks.
 
 If you find anything provided here inspires you, please cite our [arxiv paper](https://arxiv.org/abs/1811.11482) ([hig-resolution draft pdf](https://www.ics.uci.edu/~skong2/slides/kf_ff_arxiv2018.pdf), 44Mb):
 
-    @inproceedings{kong2018PPF,
-      title={Image Reconstruction with Predictive Filter Flow},
-      author={Kong, Shu and Fowlkes, Charless},
-      booktitle={arxiv},
-      year={2018}
-    }
 
+<img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" width="350"/>
 
 
 
@@ -64,10 +58,6 @@ If you find anything provided here inspires you, please cite our [arxiv paper](h
 
 For paper, slides and poster, please refer to our [project page](https://www.ics.uci.edu/~skong2/mgpff.html "multigrid predictive filter flow")
 
-
-dog             |  soccerball
-:-------------------------:|:-------------------------:
-![](https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_dog.gif)  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
 
 
 We introduce multigrid Predictive Filter Flow (mgPFF), 
@@ -91,12 +81,10 @@ thus gaining better interpretability.
 
 If you find anything provided here inspires you, please cite our [arxiv paper](https://arxiv.org/abs/XXXX.XXXX)
 
-    @inproceedings{kong2019mgPPF,
-      title={Multigrid Predictive Filter Flow for Unsupervised Learning on Videos},
-      author={Kong, Shu and Fowlkes, Charless},
-      booktitle={arxiv},
-      year={2019}
-    }
+
+dog             |  soccerball
+:-------------------------:|:-------------------------:
+![](https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_dog.gif)  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
 
 
 
