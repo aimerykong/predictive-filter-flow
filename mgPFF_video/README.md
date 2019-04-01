@@ -73,6 +73,29 @@ Purely based on the reconstruction by mgPFF, we are able to detection video tran
 
 
 ----
+## Style Transfer 
+
+The power of mgPFF in long-range flow learning enables a native style transfer. 
+Just grab the sunset in Newport Beach and Monet's painting, 
+and translate between each other (A->B). 
+They are not great, but it seems to work (Improved results on the way:-)
+
+<img src="../tmp/demo_mgpff_style_transfer.png" alt="splash figure" width="750"/>
+
+
+----
+## Sketch to Photo
+
+This simple sketch-photo translation demonstrates the power of mgPFF in correspondence learning. 
+Note how the details are synthesized from the given image/sketch. 
+
+<img src="../tmp/shu_to_sketch.png" alt="splash figure" width="750"/>
+<img src="../tmp/sketch_to_shu.png" alt="splash figure" width="750"/>
+<img src="../tmp/sketch_to_fowlkes.png" alt="splash figure" width="750"/>
+
+
+
+----
 
 last update: 04/01/2019
 
