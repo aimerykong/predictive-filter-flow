@@ -1,22 +1,3 @@
-# Learning with Predictive Filter Flow for Vision
-This github repository contains a series demonstrations of learning with Predictive Filter Flow (PFF) for 
-various vision tasks.
-PFF is a framework not only supporting fully/self-supervised learning on images and videos, but also 
-providing better interpretability that one is able to track every single pixel's movement and its kernels
-in constructing the output.
-Here is a list of specific applications:
-
-⋅⋅* For image based application: deblur, denoising, defocus, super-resolution, day-night image tranlsation, etc;
-
-⋅⋅* For video based application: instance tracking, pose tracking, video transition shot detection, frame interpolation, long-range flow learning, style transfer, etc.
-
-
-
-
-
-
-
-
 # Image Reconstruction with Predictive Filter Flow
 
 
