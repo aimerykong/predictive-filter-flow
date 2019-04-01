@@ -55,6 +55,9 @@ If you find anything provided here inspires you, please cite our [arxiv paper](h
 
 
 ## Multigrid Predictive Filter Flow
+Solarized dark             |  Solarized Ocean
+:-------------------------:|:-------------------------:
+![](https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif)  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
 
 <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
 
