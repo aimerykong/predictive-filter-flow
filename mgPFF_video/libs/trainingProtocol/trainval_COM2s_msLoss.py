@@ -17,7 +17,7 @@ from torch.autograd import Variable
 import torchvision
 from torchvision import datasets, models, transforms
 
-from utils.metrics import *
+from libs.utils.metrics import *
 
 
 def train_model(model, dataloaders, dataset_sizes, 
