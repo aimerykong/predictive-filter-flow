@@ -40,7 +40,36 @@ If you find anything provided here inspires you, please cite our [arxiv paper](h
     }
 
 
+----
+## Video Object Segmentation/Tracking
 
+gating the mask using the predicted filter flow. Through visualization, we have a unique opportunity to track each pixel and understand how every single pixel evolves over time. 
+
+<img src="../tmp/show_DAVIS.png" alt="splash figure" width="750"/>
+
+
+----
+## Human Pose Tracking
+
+Propagating the keypoints with the predicted filter flow. Through visualization, we have the unique opportunity to track each pixel along the skeleton and understand how every single pixel evolves over time. 
+
+<img src="../tmp/show_JHMDB.png" alt="splash figure" width="750"/>
+
+
+----
+## Long-Range Flow for Frame Reconstruction
+
+Long-Range Flow for Frame Reconstruction
+
+<img src="../tmp/show_frameReconst.png" alt="splash figure" width="750"/>
+
+
+----
+## Video Transition Shot Detection
+
+Purely based on the reconstruction by mgPFF, we are able to detection video transition shot. This makes training our mgPFF possible on free-form videos, e.g., long movies. 
+
+<img src="../tmp/demo_mgpff_shotDetection.png" alt="splash figure" width="750"/>
 
 
 ----
