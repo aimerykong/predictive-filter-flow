@@ -12,7 +12,7 @@ Here is a list of specific applications(*click the link to visit each webpage*):
 
 
              |  
--------------------------|-------------------------
+:-------------------------:|:-------------------------:
 <img src="https://www.ics.uci.edu/~skong2/image2/pff_icon_mediumSize.png" alt="splash figure" width="350"/>  |  <img src="https://www.ics.uci.edu/~skong2/image2/icon_mgpff_small_soccer.gif" alt="splash figure" width="350"/>
 
 
