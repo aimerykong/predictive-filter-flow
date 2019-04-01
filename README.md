@@ -5,10 +5,8 @@ PFF is a framework not only supporting fully/self-supervised learning on images 
 providing better interpretability that one is able to track every single pixel's movement and its kernels
 in constructing the output.
 Here is a list of specific applications:
-
-⋅⋅* For image based application: deblur, denoising, defocus, super-resolution, day-night image tranlsation, etc;
-
-⋅⋅* For video based application: instance tracking, pose tracking, video transition shot detection, frame interpolation, long-range flow learning, style transfer, etc.
+1. For image based application: deblur, denoising, defocus, super-resolution, day-night image tranlsation, etc;
+2. For video based application: instance tracking, pose tracking, video transition shot detection, frame interpolation, long-range flow learning, style transfer, etc.
 
 
 
