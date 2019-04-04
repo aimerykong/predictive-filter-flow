@@ -30,12 +30,12 @@ thus gaining better interpretability.
 
 
 
-If you find anything provided here inspires you, please cite our [arxiv paper](https://arxiv.org/abs/XXXX.XXXX)
+If you find anything provided here inspires you, please cite our [arxiv paper](http://arxiv.org/abs/1904.01693)
 
-    @inproceedings{kong2019mgPPF,
+    @article{kong2019mgPFF,
       title={Multigrid Predictive Filter Flow for Unsupervised Learning on Videos},
       author={Kong, Shu and Fowlkes, Charless},
-      booktitle={arxiv},
+      journal={arXiv preprint arXiv:1904.01693},
       year={2019}
     }
 
