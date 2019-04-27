@@ -17,7 +17,7 @@ from torch.autograd import Variable
 import torchvision
 from torchvision import datasets, models, transforms
 
-from utils.metrics import *
+
 
 def genFlowVector4Visualization(F_fine2coarse):
     F1tmp = F_fine2coarse[0]
