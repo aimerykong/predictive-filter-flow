@@ -1,0 +1,13 @@
+./exp/demo00_training/train.log	cuda:3
+
+
+Epoch 1/1000
+----------
+train
+	loss: 0.203814
+val
+	loss: 0.230162
+
+Epoch 2/1000
+----------
+train

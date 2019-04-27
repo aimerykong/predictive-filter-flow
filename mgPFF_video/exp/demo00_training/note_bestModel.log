@@ -1,0 +1,3 @@
+Record of best models on the way.
+The best model is achieved at epoch-1: loss0.230162.
+	0.2302 Rec:0.056, FVrec:0.168, Smooth:0.005, imGrad:0.000, lazy:0.002223, bidir:0.007173
