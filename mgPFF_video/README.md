@@ -94,10 +94,21 @@ Note how the details are synthesized from the given image/sketch.
 <img src="../tmp/sketch_to_fowlkes.png" alt="splash figure" width="750"/>
 
 
+----
+## Photo Harmonization/Blending
+
+We transplant the nose from a source image to the target (Sphinx).
+This simple photo harmonization/editing demonstrates the power of mgPFF in warping cross-domain images, in which optical flow 
+fails in capturing meaningful transformations, w.r.t shape, color, texture, etc.
+
+<img src="../tmp/sphinx.png" alt="splash figure" width="750"/>
+
+
+
 
 ----
 
-last update: 04/01/2019
+last update: 02/19/2020
 
 Shu Kong
 
